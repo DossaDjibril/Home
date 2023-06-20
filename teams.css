@@ -1,0 +1,61 @@
+
+button {
+  background color: orange
+  border: orange;
+  color: black;
+  padding: 40px 40px;
+  text-align: center;
+  text-decoration: orange;
+  display: inline-block;
+  font-size: 20px;
+}
+    
+    body {
+  background-image: url("Images/court.GIF");
+  background-size: 1100px;
+  width: 1000x;
+  height: 1000px;
+  background-position: center center;
+}
+
+
+
+h1{
+  text-align: center;
+       color: white
+  }
+
+h1 { font-size: 115px; }
+
+
+p {
+  font-size: 40px;
+  text-align: center;
+    color: white
+}
+
+h2{font-size: 75px;
+    text-align: center;
+    color: white
+}
+
+h3{font-size: 75px;
+    text-align: center;
+    color: white
+}
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
